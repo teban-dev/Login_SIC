@@ -1,6 +1,7 @@
 SIC PROJECT
 
 Desarrollado por Teban
+
 Proyecto para la Asignatura de Programacion Orientada a Objetos
 
 Los usuarios para acceder al menú de administrador es:
