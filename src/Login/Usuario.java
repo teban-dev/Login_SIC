@@ -30,8 +30,8 @@ public class Usuario {
     
     public static void inicializarUsuarios() {
         usuariosRegistrados.add(new Usuario("admin123", "admin123", "admin"));
-        usuariosRegistrados.add(new Usuario("user001", "password001", "usuario"));
-        usuariosRegistrados.add(new Usuario("user002", "password002", "usuario"));
+        usuariosRegistrados.add(new Usuario("cajero001", "password001", "usuario"));
+        usuariosRegistrados.add(new Usuario("cajero002", "password002", "usuario"));
     }
     
     public static boolean validarUsuario(String username, String password) {
