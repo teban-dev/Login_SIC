@@ -8,11 +8,13 @@ username: admin123
 password: admin123
 
 Los usuarios para acceder al menú de cajero son:
+
 username: cajero001
 password: password001
 
 username: cajero002
 password: password002
+
 
 (Si se desearan añadir mas usuarios de cada tipo, en la clase login se pueden añadir)
 
